@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="vERiDhGtLYTF%PByX*Pj" x="43" y="99"><statement name="HANDLER"><block type="device_show_leds" id="V1jAO!iKJYXoYRGV5+g1"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="UadA#Hr.4UJDdt,Mu^$8" x="34" y="433"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="-dqn;5*`QxNg?|by~%zd"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="device_pause" id="_N:-ML^W}:pw;.})OXlY"><value name="pause"><shadow type="timePicker" id="kMCI_y(S[Lo6a4of2Itn"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="?TYVwX8f9?vxVuzyefr2"><field name="LEDS">`
+        # . . . . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="device_pause" id="+A2hYnxP0KK[jF;Qg5eR"><value name="pause"><shadow type="timePicker" id="*6+?F4GgivDZ=Tc/VvJ@"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="jqvx~R8@)UE,6@HI`}bu"><field name="LEDS">`
+        # . . . . 
+        # # . . . 
+        # . # . . 
+        # . . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="G6%+6;NM{mqT1{n*hxN7"><value name="pause"><shadow type="timePicker" id="8{bv8i,7cxJ/V$~?!oh["><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="]*FVX=dc?CS6w%K4d=@Q"><field name="LEDS">`
+        # . . . . 
+        # # . . . 
+        # . # . . 
+        # . . # . 
+        # # # # #
+        `</field><next><block type="device_print_message" id="rto)5)!]}zS@JvnbnqUW"><value name="text"><shadow type="text" id="RS5*v+e%x4VR3CN190(E"><field name="TEXT">Triangolo rettangolo</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
